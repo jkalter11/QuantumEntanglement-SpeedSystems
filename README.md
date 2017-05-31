@@ -11,7 +11,7 @@ __*To avoid getting caught:*__
 ***
 __*To use:*__
 
-_The password to decrypt the program is **QuantumE**_
+_The password to decrypt the program is **QUANTUMFREEDOM**_
 
 To Turn Off: 
 - NetSh Advfirewall set allprofiles state off
