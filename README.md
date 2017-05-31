@@ -1,7 +1,7 @@
 # QuantumEntanglement-SpeedSystems: Faster than light
 ![icon](/icon.png)
-###### developed by Mason P
-###### Polished by Micah G
+###### Developed and assembled by Mason P
+###### Polished and edited by Micah G
 ---
 __*To avoid getting caught:*__
 - do not save the files on a Lightspeed computer
