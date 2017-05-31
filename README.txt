@@ -1,12 +1,21 @@
-//Disclaimer: You might get in trouble for this, if you are not careful
+QuantumEntanglement-SpeedSystems: Faster than light
 
-Firewall commands:
+Developed and assembled by Mason P
 
-To Turn Off: 
+Polished and edited by Micah G
+
+To avoid getting caught:
+
+do not save the files on a Lightspeed computer
+run the files from an external drive (flash drive, SD, etc)
+perform this on a computer where it can only be traced to your login. To elaborate, don't run it in a computer class, run it from the library or open-to-student computer lab, where cameras cannot see you. This way they have no record that you were at the computer at the time of the cammands being run.
+avoid running this from your own student login, if possible. Not vital, but an extra pecaution. (terminal logs are stored on the machine, and are not linked to student logins)
+To use: To Turn Off:
+
 NetSh Advfirewall set allprofiles state off
+To Turn On:
 
-To Turn On: 
 NetSh Advfirewall set allrprofiles state on
+To check the status of Windows Firewall:
 
-To check the status of Windows Firewall: 
 Netsh Advfirewall show allprofiles
