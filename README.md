@@ -10,6 +10,9 @@ __*To avoid getting caught:*__
 - avoid running this from your own student login, if possible. Not vital, but an extra pecaution. (terminal logs are stored on the machine, and are not linked to student logins)
 ***
 __*To use:*__
+
+_The password to decrypt the program is **QuantumE**_
+
 To Turn Off: 
 - NetSh Advfirewall set allprofiles state off
 
